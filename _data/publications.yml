@@ -1,5 +1,25 @@
 main:
 
+  - title: "Salient Mask-Guided Vision Transformer for Fine-Grained Classification"
+    authors: Dmitry Demidov, <strong>Muhammad Hamza Sharif</strong>, Aliakbar Abdurahimov, Hisham Cholakkal, Fahad Khan
+    conference_short: VISAPP
+    conference: International Conference on Computer Vision Theory and Applications (VISAPP) <strong>(VISAPP)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2305.07102.pdf
+    image: ./assets/img/4thpaper.png
+    notes: Best Paper
+
+  - title: "TransResNet:Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting"
+    authors: <strong>Muhammad Hamza Sharif</strong>, Dmitry Demidov, Asif Hanif, Mohammad Yaqub, Min Xu
+    conference_short: BMVC
+    conference: The 33<sup>rd</sup> British Machine Vision Conference <strong>(BMVC)</strong>, 2022.
+    pdf: https://bmvc2022.mpi-inf.mpg.de/0293.pdf
+    code: https://github.com/Sharifmhamza/TransResNet
+    page: https://bmvc2022.mpi-inf.mpg.de/293/
+    poster: https://class-il.mpi-inf.mpg.de/mnemonics/
+    Video slides: https://bmvc2022.mpi-inf.mpg.de/0293_video.mp4
+    image: ./assets/img/3rdpaper.png
+    notes: Poster Presentation
+
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
