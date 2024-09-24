@@ -3,7 +3,7 @@ main:
   - title: "Salient Mask-Guided Vision Transformer for Fine-Grained Classification"
     authors: Dmitry Demidov, <strong>Muhammad Hamza Sharif</strong>, Aliakbar Abdurahimov, Hisham Cholakkal, Fahad Khan
     conference_short: VISAPP
-    conference: International Conference on Computer Vision Theory and Applications (VISAPP) <strong>(VISAPP)</strong>, 2023.
+    conference: International Conference on Computer Vision Theory and Applications <strong>(VISAPP)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2305.07102.pdf
     image: ./assets/img/4thpaper.png
     notes: Best Paper
