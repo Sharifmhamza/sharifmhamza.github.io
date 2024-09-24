@@ -29,7 +29,7 @@ main:
     image: ./assets/img/2ndpaper.png
     notes: Journal Paper
 
-  - title: "A Novel Machine Learning Based Framework for Detectionof Autism Spectrum Disorder (ASD)"
+  - title: "A Novel Machine Learning Based Framework for Detection of Autism Spectrum Disorder (ASD)"
     authors: <strong>Hamza Sharif</strong>, Rizwan Ahmed Khan. 
     conference_short: AAI
     conference: APPLIED ARTIFICIAL INTELLIGENCE <strong>(AAI)</strong>, 2021.
