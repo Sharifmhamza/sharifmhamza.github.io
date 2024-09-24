@@ -16,7 +16,7 @@ main:
     code: https://github.com/Sharifmhamza/TransResNet
     page: https://bmvc2022.mpi-inf.mpg.de/293/
     poster: https://class-il.mpi-inf.mpg.de/mnemonics/
-    video slides: https://bmvc2022.mpi-inf.mpg.de/0293_video.mp4
+    videoslides: https://bmvc2022.mpi-inf.mpg.de/0293_video.mp4
     image: ./assets/img/3rdpaper.png
     notes: Poster Presentation
 
