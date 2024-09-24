@@ -12,8 +12,7 @@ After completing my undergraduate studies, I served as a Research Associate at [
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research centers on **Multi-modal Generative and Discriminative Learning** with a specific focus on medical imaging. Key areas of exploration include **1.** Multimodal Vision-Language Models for Medical Image and Text Analysis, **2.** Integrating generative and discriminative techniques to enhance segmentation performance, **3.** World-centric evaluations of multi-modal segmentation models, and **4.** Self-supervised learning methods to enhance segmentation performance while minimizing labeled data requirements.
 
 ## News
 
