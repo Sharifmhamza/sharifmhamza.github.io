@@ -20,15 +20,13 @@ main:
     image: ./assets/img/3rdpaper.png
     notes: Poster Presentation
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Use of artificial intelligence on Electroencephalogram (EEG) waveforms to predict failure in early school grades in children from a rural cohort in Pakistan"
+    authors: Muneera A. Rasheed, Prem Chand, Saad Ahmed, <strong>Muhammad Hamza Sharif</strong>, Zahra Hoodbhoy, Ayat Siddiqui, Babar S. Hasan.
+    conference_short: PLOS ONE
+    conference: Journal of PLOS ONE <strong>(PLOS ONE)</strong>, 2021.
+    pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246236
+    image: ./assets/img/2ndpaper.png
+    notes: Journal Paper
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
