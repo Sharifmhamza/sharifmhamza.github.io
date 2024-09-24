@@ -21,20 +21,17 @@ main:
     notes: Poster Presentation
 
   - title: "Use of artificial intelligence on Electroencephalogram (EEG) waveforms to predict failure in early school grades in children from a rural cohort in Pakistan"
-    authors: Muneera A. Rasheed, Prem Chand, Saad Ahmed, <strong>Muhammad Hamza Sharif</strong>, Zahra Hoodbhoy, Ayat Siddiqui, Babar S. Hasan.
+    authors: Muneera A. Rasheed, Prem Chand, Saad Ahmed, <strong>Hamza Sharif</strong>, Zahra Hoodbhoy, Ayat Siddiqui, Babar S. Hasan.
     conference_short: PLOS ONE
     conference: Journal of PLOS ONE <strong>(PLOS ONE)</strong>, 2021.
     pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246236
     image: ./assets/img/2ndpaper.png
     notes: Journal Paper
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "A Novel Machine Learning Based Framework for Detectionof Autism Spectrum Disorder (ASD)"
+    authors: <strong>Hamza Sharif</strong>, Rizwan Ahmed Khan. 
+    conference_short: AAI
+    conference: APPLIED ARTIFICIAL INTELLIGENCE <strong>(AAI)</strong>, 2020.
+    pdf: https://www.tandfonline.com/doi/epdf/10.1080/08839514.2021.2004655?needAccess=true
+    notes: Journal Paper
+    image: ./assets/img/1stpaper.png
