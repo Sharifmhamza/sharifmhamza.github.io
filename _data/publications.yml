@@ -4,7 +4,7 @@ main:
     authors: Dmitry Demidov, <strong>Muhammad Hamza Sharif</strong>, Aliakbar Abdurahimov, Hisham Cholakkal, Fahad Khan
     conference_short: VISAPP
     conference: International Conference on Computer Vision Theory and Applications <strong>(VISAPP)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2305.07102.pdf
+    pdf: https://www.scitepress.org/PublishedPapers/2023/116111/116111.pdf
     code: https://github.com/demidovd98/sm-vit?tab=readme-ov-file
     image: ./assets/img/4thpaper.png
     notes: Best Paper
