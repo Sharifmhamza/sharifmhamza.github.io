@@ -15,6 +15,8 @@ After completing my undergraduate studies, I served as a Research Associate at [
 My research centers on **Multi-modal Generative and Discriminative Learning** with a specific focus on medical imaging. Key areas of exploration include **1.** Multimodal Vision-Language Models for Medical Image and Text Analysis, **2.** Integrating generative and discriminative techniques to enhance segmentation performance, **3.** World-centric evaluations of multi-modal segmentation models, and **4.** Self-supervised learning methods to enhance segmentation performance while minimizing labeled data requirements.
 
 ## News
+- **[Feb. 2023]** Awarded <strong>VISAPP 2023 Travel Grant</strong>.
+- **[Nov. 2022]** Our paper about Salient Mask-Guided Vision Transformer for Fine-Grained Classification got aacepted at <strong>VISAPP 2022</strong>.
 - **[Nov. 2022]** Awarded <strong>BMVC 2022 Travel Grant</strong>.
 - **[June. 2022]** Our paper about Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting got aacepted at <strong>BMVC 2022</strong>.
 - **[Dec. 2021]** I joined [Xu Lab](https://xulabs.github.io/) at [CMU](https://www.cmu.edu/) under the supervision of [Dr. Min Xu](https://xulabs.github.io/min-xu/).
