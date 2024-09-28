@@ -24,8 +24,8 @@ My research centers on **Multi-modal Generative and Discriminative Learning** wi
 - **[Feb. 2021]** I joined as Data Analyst-AI at [Afiniti](https://www.afiniti.com/).
 - **[Dec. 2019]** I joined as Machine Learning Engineer at [Ephlux](https://www.ephlux.com/).
 - **[May. 2018]** I joined as a Research Associate at [Salim Habib University](https://www.shu.edu.pk/).
-- **[Aug. 2017]** I completed my undergraduate studies in Computer Engineering from the [University of Engineering and Technology (UET) Lahore, Pakistan](https://www.uet.edu.pk/home/).
-- **[June. 2016]** I joined as a DAAD Research Intern at the [German Research Center for Artificial Intelligence (DFKI GmbH)](https://www.dfki.de/web) and the [Technical University of Kaiserslautern, Germany](https://rptu.de/en/).
+- **[Aug. 2017]** I completed my undergraduate studies in Computer Engineering from the [UET Lahore, Pakistan](https://www.uet.edu.pk/home/).
+- **[June. 2016]** I joined as a DAAD Research Intern at the [DFKI](https://www.dfki.de/web) and the [TUKL](https://rptu.de/en/).
 
 {% include_relative _includes/publications.md %}
 
