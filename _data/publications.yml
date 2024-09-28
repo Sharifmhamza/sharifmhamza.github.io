@@ -7,7 +7,7 @@ main:
     pdf: https://www.scitepress.org/PublishedPapers/2023/116111/116111.pdf
     code: https://github.com/demidovd98/sm-vit?tab=readme-ov-file
     image: ./assets/img/4thpaper.png
-    notes: Best Paper
+    notes: Best Paper Award
 
   - title: "TransResNet:Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting"
     authors: <strong>Muhammad Hamza Sharif</strong>, Dmitry Demidov, Asif Hanif, Mohammad Yaqub, Min Xu
@@ -24,7 +24,7 @@ main:
   - title: "Use of artificial intelligence on Electroencephalogram (EEG) waveforms to predict failure in early school grades in children from a rural cohort in Pakistan"
     authors: Muneera A. Rasheed, Prem Chand, Saad Ahmed, <strong>Hamza Sharif</strong>, Zahra Hoodbhoy, Ayat Siddiqui, Babar S. Hasan.
     conference_short: PLOS ONE
-    conference: Journal of PLOS ONE <strong>(PLOS ONE)</strong>, 2021.
+    conference: The Journal of PLOS ONE <strong>(PLOS ONE)</strong>, 2021.
     pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246236
     image: ./assets/img/2ndpaper.png
     notes: Journal Paper
