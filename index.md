@@ -16,7 +16,7 @@ My research centers on **Multi-modal Generative and Discriminative Learning** wi
 
 ## News
 - **[Feb. 2023]** Awarded <strong>VISAPP 2023 Travel Grant</strong>.
-- **[Nov. 2022]** Our paper about Salient Mask-Guided Vision Transformer for Fine-Grained Classification got aacepted at <strong>VISAPP 2022</strong>.
+- **[Nov. 2022]** Our paper about Salient Mask-Guided Vision Transformer for Fine-Grained Classification got aacepted at <strong>VISAPP 2023</strong>.
 - **[Nov. 2022]** Awarded <strong>BMVC 2022 Travel Grant</strong>.
 - **[June. 2022]** Our paper about Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting got aacepted at <strong>BMVC 2022</strong>.
 - **[Dec. 2021]** I joined [Xu Lab](https://xulabs.github.io/) at [CMU](https://www.cmu.edu/) under the supervision of [Dr. Min Xu](https://xulabs.github.io/min-xu/).
