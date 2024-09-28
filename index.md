@@ -16,10 +16,14 @@ My research centers on **Multi-modal Generative and Discriminative Learning** wi
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+
+- **[Dec. 2019]** Our paper about 
+- **[Feb. 2021]** I joined as Machine Learning Engineer at [Ephlux](https://www.ephlux.com/).
+- **[Feb. 2021]** Our paper about use of AI using EEG waveform to predict failure in early school grades got accepted at The 
+- **[Dec. 2019]** I joined as Machine Learning Engineer at [Ephlux](https://www.ephlux.com/).
+- **[May. 2018]** I joined as a Research Associate at [Salim Habib University](https://www.shu.edu.pk/).
+- **[Aug. 2017]** I completed my undergraduate studies in Computer Engineering from the [University of Engineering and Technology (UET) Lahore, Pakistan](https://www.uet.edu.pk/home/).
+- **[June. 2016]** I joined as a DAAD Research Intern at the [German Research Center for Artificial Intelligence (DFKI GmbH)](https://www.dfki.de/web) and the [Technical University of Kaiserslautern, Germany](https://rptu.de/en/).
 
 {% include_relative _includes/publications.md %}
 
