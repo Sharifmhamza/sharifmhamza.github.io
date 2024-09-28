@@ -1,4 +1,4 @@
-<h2 id="thesis" style="margin: 2px 0px -15px;">thesis</h2>
+<h2 id="thesis" style="margin: 2px 0px -15px;">Thesis</h2>
 
 <div class="thesis">
 <ol class="bibliography">
