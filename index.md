@@ -27,6 +27,8 @@ My research centers on **Multi-modal Generative and Discriminative Learning** wi
 - **[Aug. 2017]** I completed my undergraduate studies in Computer Engineering from [UET Lahore, Pakistan](https://www.uet.edu.pk/home/).
 - **[June. 2016]** I joined as a DAAD Research Intern at the [DFKI](https://www.dfki.de/web) and the [TUKL](https://rptu.de/en/).
 
+{% include_relative _includes/thesis.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
