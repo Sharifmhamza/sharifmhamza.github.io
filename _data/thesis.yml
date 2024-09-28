@@ -1,1 +1,22 @@
+main:
 
+  - title: "Salient Mask-Guided Vision Transformer for Fine-Grained Classification"
+    authors: Dmitry Demidov, <strong>Muhammad Hamza Sharif</strong>, Aliakbar Abdurahimov, Hisham Cholakkal, Fahad Khan
+    conference_short: VISAPP
+    conference: International Conference on Computer Vision Theory and Applications <strong>(VISAPP)</strong>, 2023.
+    pdf: https://www.scitepress.org/PublishedPapers/2023/116111/116111.pdf
+    code: https://github.com/demidovd98/sm-vit?tab=readme-ov-file
+    image: ./assets/img/4thpaper.png
+    notes: Best Paper Award
+
+  - title: "TransResNet:Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting"
+    authors: <strong>Muhammad Hamza Sharif</strong>, Dmitry Demidov, Asif Hanif, Mohammad Yaqub, Min Xu
+    conference_short: BMVC
+    conference: The 33<sup>rd</sup> British Machine Vision Conference <strong>(BMVC)</strong>, 2022.
+    pdf: https://bmvc2022.mpi-inf.mpg.de/0293.pdf
+    code: https://github.com/Sharifmhamza/TransResNet
+    page: https://bmvc2022.mpi-inf.mpg.de/293/
+    poster: https://class-il.mpi-inf.mpg.de/mnemonics/
+    videoslides: https://bmvc2022.mpi-inf.mpg.de/0293_video.mp4
+    image: ./assets/img/3rdpaper.png
+    notes: Poster Presentation
