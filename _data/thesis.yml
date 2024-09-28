@@ -6,13 +6,13 @@ main:
     conference: Mohamed bin Zayed University of Artificial Intelligence <strong>(MBZUAI)</strong> Abu Dhabi UAE, 2023.
     pdf: https://www.dropbox.com/scl/fi/6qli613dq4ts4lknnqhbb/2023_Thesis_Hamza.pdf?rlkey=kyn3xs6aptj6r2tem0b3qm41u&dl=0
     image: ./assets/img/2ndthesis.png
-    notes: Master Thesis
+    notes: Masters Thesis
 
 
   - title: "iFruitfly Detector: An Intelligent System for food Quality Control"
-    authors: <strong>Muhammad Hamza Sharif</strong>, M
+    authors: <strong>Muhammad Hamza Sharif</strong>, Rayyan Khalid, Ayesha Sahar, Maira Nadeem, Sheikh Faisal Rashid
     conference_short: UET
     conference: University of Engineering & Technology <strong>(UET)</strong> Lahore Pakistan, 2017.
     pdf: https://www.dropbox.com/scl/fi/i74seai32pn7av74p6k5h/Bachelors-Thesis_Ifruifly-Detector_An-intelligent-System-for-Food-Quality-Control.pdf?rlkey=91a0slgkaimed3up18vuvzmdp&dl=0
     image: ./assets/img/1stthesis.png
-    notes: Bachelor Thesis
+    notes: Bachelors Thesis
