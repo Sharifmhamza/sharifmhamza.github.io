@@ -1,16 +1,26 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><autocolor>Served as a Reviewer at BMVC'22, CVPR'23, MICCAI'23, and MIDL'23</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
+<h4 style="margin:0 10px 0;">Academic Services</h4>
+Teaching Assistant
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor>Deep Learning (AI702) course - Spring 2023</autocolor></li>
+  <li><autocolor>Machine Learning (ML701) course - Fall 2023</autocolor></li>
+</ul>
+
+
+## Awards and Merits
+
+<!-- <h4 style="margin:0 10px 0;">Work Experience</h4> -->
+
+<ul style="margin:0 0 5px;">
+  
+  <li><a href="https://visapp.scitevents.org/?y=2023"><autocolor>Awarded VISAPP 2023 Travel Grant.</autocolor></a></li>
+  <li><a href="https://bmvc2022.org/"><autocolor>Awarded BMVC 2022 Travel Grant.</autocolor></a></li>
+  <li><a href="http://www.mbzuai.ac.ae"><autocolor>Full scholarship to study Masters in Computer Vision at the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI).</autocolor></a></li>
 </ul>
