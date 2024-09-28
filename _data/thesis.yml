@@ -1,22 +1,18 @@
 main:
 
-  - title: "Salient Mask-Guided Vision Transformer for Fine-Grained Classification"
-    authors: Dmitry Demidov, <strong>Muhammad Hamza Sharif</strong>, Aliakbar Abdurahimov, Hisham Cholakkal, Fahad Khan
-    conference_short: VISAPP
-    conference: International Conference on Computer Vision Theory and Applications <strong>(VISAPP)</strong>, 2023.
-    pdf: https://www.scitepress.org/PublishedPapers/2023/116111/116111.pdf
-    code: https://github.com/demidovd98/sm-vit?tab=readme-ov-file
-    image: ./assets/img/4thpaper.png
-    notes: Best Paper Award
+  - title: "Exploring the potential of deep learning approaches for Biomedical Image Segmentation"
+    authors: <strong>Muhammad Hamza Sharif</strong>, Mohammad Yaqub, Min Xu
+    conference_short: MBZUAI
+    conference: Mohamed bin Zayed University of Artificial Intelligence <strong>(MBZUAI)</strong> Abu Dhabi UAE, 2023.
+    pdf: https://www.dropbox.com/scl/fi/6qli613dq4ts4lknnqhbb/2023_Thesis_Hamza.pdf?rlkey=kyn3xs6aptj6r2tem0b3qm41u&dl=0
+    image: ./assets/img/2ndthesis.png
+    notes: Master Thesis
 
-  - title: "TransResNet:Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting"
-    authors: <strong>Muhammad Hamza Sharif</strong>, Dmitry Demidov, Asif Hanif, Mohammad Yaqub, Min Xu
-    conference_short: BMVC
-    conference: The 33<sup>rd</sup> British Machine Vision Conference <strong>(BMVC)</strong>, 2022.
-    pdf: https://bmvc2022.mpi-inf.mpg.de/0293.pdf
-    code: https://github.com/Sharifmhamza/TransResNet
-    page: https://bmvc2022.mpi-inf.mpg.de/293/
-    poster: https://class-il.mpi-inf.mpg.de/mnemonics/
-    videoslides: https://bmvc2022.mpi-inf.mpg.de/0293_video.mp4
-    image: ./assets/img/3rdpaper.png
-    notes: Poster Presentation
+
+  - title: "iFruitfly Detector: An Intelligent System for food Quality Control"
+    authors: <strong>Muhammad Hamza Sharif</strong>, M
+    conference_short: UET
+    conference: University of Engineering & Technology <strong>(UET)</strong> Lahore Pakistan, 2017.
+    pdf: https://www.dropbox.com/scl/fi/i74seai32pn7av74p6k5h/Bachelors-Thesis_Ifruifly-Detector_An-intelligent-System-for-Food-Quality-Control.pdf?rlkey=91a0slgkaimed3up18vuvzmdp&dl=0
+    image: ./assets/img/1stthesis.png
+    notes: Bachelor Thesis
