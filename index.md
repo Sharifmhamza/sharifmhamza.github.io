@@ -33,4 +33,3 @@ My research centers on **Multi-modal Generative and Discriminative Learning** wi
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/thesis.md %}
