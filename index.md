@@ -8,7 +8,7 @@ I am currently a Research Associate at the [Mohammed Bin Zayed University of Art
 
 I received my undergraduate degree from the [University of Engineering and Technology (UET) Lahore, Pakistan](https://www.uet.edu.pk/home/). During this period, I gained valuable research experience through internships at the [German Research Center for Artificial Intelligence (DFKI GmbH)](https://www.dfki.de/web) and the [Technical University of Kaiserslautern, Germany](https://rptu.de/en/).
 
-After completing my undergraduate studies, I served as a Research Associate at [Salim Habib University](https://www.shu.edu.pk/), working under the supervision of [Dr. Rizwan Khan](https://sites.google.com/site/drkhanrizwan17/). Alongside my academic career, I also gained practical industry experience as a machine learning engineer at leading firms such as [Ephlux](https://www.ephlux.com/) and [Afiniti](https://www.afiniti.com/), where I honed my expertise in machine learning applications.
+After completing my undergraduate studies, I served as a Research Associate at [Barrett Hodgson University](https://www.shu.edu.pk/), working under the supervision of [Dr. Rizwan Khan](https://sites.google.com/site/drkhanrizwan17/). Alongside my academic career, I also gained practical industry experience as a machine learning engineer at leading firms such as [Ephlux](https://www.ephlux.com/) and [Afiniti](https://www.afiniti.com/), where I honed my expertise in machine learning applications.
 
 ## Research Interests
 
@@ -25,7 +25,7 @@ My research centers on **Multi-modal Generative and Discriminative Learning** wi
 - **[Feb. 2021]** Our paper about use of AI using EEG waveform to predict failure in early school grades got accepted at <strong>The Journal of PLOS ONE</strong>.
 - **[Feb. 2021]** I joined as Data Analyst-AI at [Afiniti](https://www.afiniti.com/).
 - **[Dec. 2019]** I joined as Machine Learning Engineer at [Ephlux](https://www.ephlux.com/).
-- **[May. 2018]** I joined as a Research Associate at [SHU](https://www.shu.edu.pk/).
+- **[May. 2018]** I joined as a Research Associate at [BHU](https://www.shu.edu.pk/).
 - **[Aug. 2017]** I completed my undergraduate studies in Computer Engineering from [UET Lahore, Pakistan](https://www.uet.edu.pk/home/).
 - **[June. 2016]** I joined as a DAAD Research Intern at the [DFKI](https://www.dfki.de/web) and the [TUKL](https://rptu.de/en/).
 
