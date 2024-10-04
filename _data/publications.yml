@@ -1,5 +1,12 @@
 main:
 
+  - title: "Y-CA-Net: A Convolutional Attention Based Network for Volumetric Medical Image Segmentation"
+    authors: <strong>Muhammad Hamza Sharif</strong>, Muzammal Naseer, Mohammad Yaqub, Min Xu, Mohsen Guizani
+    conference_short: arXiv
+    conference: arXiv <strong>(arXiv)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2410.01003.pdf
+    image: ./assets/img/5thpaper.png
+
   - title: "Salient Mask-Guided Vision Transformer for Fine-Grained Classification"
     authors: Dmitry Demidov, <strong>Muhammad Hamza Sharif</strong>, Aliakbar Abdurahimov, Hisham Cholakkal, Fahad Khan
     conference_short: VISAPP
